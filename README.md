@@ -20,5 +20,5 @@ Queries are automatically quoted.
 ## alfredleo
 English/German translations; redirect to dict.leo.org
 
-**leo {query}**
->`leo hello`
+**dict {query}**
+>`dict hello`
